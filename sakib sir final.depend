@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1556639124 source:d:\iit\sakib sir final\input_info.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1556697304 d:\iit\sakib sir final\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1556696579 source:d:\iit\sakib sir final\main.c
+	"header.h"
+
+1556648182 source:d:\iit\sakib sir final\search by batch.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1556647991 source:d:\iit\sakib sir final\search_by_roal.c
+	"header.h"
+
+1556637762 source:d:\iit\sakib sir final\search_option.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1556685891 source:d:\iit\sakib sir final\mark_input.c
+	"header.h"
+
+1556691751 source:d:\iit\sakib sir final\profiles.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1556697394 source:d:\iit\sakib sir final\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1556651690 source:d:\iit\sakib sir final\numeric_grade.c
+	"header.h"
+
+1556695889 source:d:\iit\sakib sir final\search result menu.c
+	"header.h"
+
+1556693153 source:d:\iit\sakib sir final\batch result.c
+	"header.h"
+
+1556693093 source:d:\iit\sakib sir final\letter grade.c
+	"header.h"
+
+1556695931 source:d:\iit\sakib sir final\individual result.c
+	"header.h"
+
+1556697356 source:d:\iit\sakib sir final\result filter.c
+	"header.h"
+
